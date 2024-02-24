@@ -33,7 +33,7 @@ Ultimately, you should have fun with this tool, or brainstorm ideas with it, or 
 
 You can use this framework for a variety of things! Have fun building something with this, or maybe just playing around.
 
-# Disclaimer
+# Before continuing...
 
 Although the GNU GPL states that you can do whatever you want with the source code, I highly recommend NOT to add NSFW prompts for the models, you can get your OpenAI developer account banned, the same goes for Google's Gemini API if you wish to add that I guess.
 
