@@ -1,2 +1,2 @@
-# gcbm
-Generative Conversation Between Models
+# GCBM
+**G**enerative **C**onversation **B**etween **M**odels
