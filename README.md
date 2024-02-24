@@ -35,6 +35,6 @@ You can use this framework for a variety of things! Have fun building something 
 
 # Before continuing...
 
-Although the GNU GPL states that you can do whatever you want with the source code, I highly recommend NOT to add NSFW prompts for the models, you can get your OpenAI developer account banned, the same might go for other AI models if you wish to add them.
+Although the GNU GPL states that you can do whatever you want with the source code, I highly recommend NOT to add NSFW prompts for the models, you can get your OpenAI developer account banned, the same might go for the maintainers for the other AI models if you wish to add them.
 
-Furthermore, your prompts and the conversations between the models can be viewed by OpenAI (If you only use GPT). This is mentioned in their privacy policy, hence please don't share sensitive information. 
+Furthermore, your prompts and the conversations between the models can be viewed by OpenAI _(If you use GPT)_. This is mentioned in their privacy policy, hence please don't share sensitive information _(Unless you are eligible for Zero retention, then they wont keep any data)_. The same probably goes for other AI model maintainers.
