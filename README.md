@@ -27,7 +27,7 @@ In the source code, there are currently two initial prompts in the lists ```conv
 
 You can change them according to the personality or character you wish the AI should inhabit.
 
-# How to use it
+# What to use it for
 
 Ultimately, you should have fun with this tool, or brainstorm ideas with it, or maybe make it a double co-pilot! The possibilites are endless, I made this as a helping hand for people trying to become more productive, but you do you!
 
