@@ -1,7 +1,7 @@
 # GCBM
 _**G**enerative **C**onversation **B**etween **M**odels_
 
-A tool/framework for conversations and interactions between multiple A.I models at once.
+A tool/framework for conversations and interactions between multiple AI models at once.
 
 This framework can be used to engage in, develop with, or converse with multiple models in one continous conversation with the same context.
 
